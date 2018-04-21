@@ -43,3 +43,19 @@ main {
   flex-basis: 100%;
   font-size: 2em;
 }
+.input {
+  flex-basis: 50%;
+}
+
+#result {
+  display: none;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  width: 250px;
+  height:400px;
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+}
